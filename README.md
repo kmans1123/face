@@ -2,8 +2,8 @@
 
 ### index.html
 
-'''
 
+'''ruby
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,8 +17,8 @@
 <body>
 </body>
 </html>
-
 '''
+
 
 ### sketch.js
 '''
