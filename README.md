@@ -1,9 +1,7 @@
 # face
 
 ### index.html
-
-
-'''ruby
+```ruby
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,11 +15,11 @@
 <body>
 </body>
 </html>
-'''
+```
 
 
 ### sketch.js
-'''
+```ruby
 let faceapi;
 let video;
 let detections;
@@ -128,4 +126,4 @@ function drawPart(feature, closed) {
     endShape();
   }
 }
-'''
+```
