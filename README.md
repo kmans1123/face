@@ -11,3 +11,7 @@
 2. 크롬 브라우저에서 Web Server for Chrome 을 설치하고
 3. [압축을 푼 폴더]를 선택한다.
 4. http://127.0.0.1:8887 로 접속
+
+
+## 구현 영상
+https://youtu.be/spfE8jnRjAU
